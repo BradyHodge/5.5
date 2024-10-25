@@ -16,7 +16,9 @@
 
 #### License Info
 
-This software may be modified for individual educational purposes only. You may NOT modify or distribute ANY part of this project for financial gain or any other monetary reasons. Our specific licensing terms and conditions can be found at [github.com/uplandwave/5.5/blob/main/LICENSE](https://github.com/bradyhodge/5.5/blob/main/LICENSE).
+This software may be modified for individual educational purposes only. You may NOT modify or distribute ANY part of this project for financial gain or any other monetary reasons. Our specific licensing terms and conditions can be found at [github.com/bradyhodge/5.5/blob/main/LICENSE](https://github.com/bradyhodge/5.5/blob/main/LICENSE).
+
+#### Made in collaboration with [@uplandwave](https://github.com/uplandwave)
 
 #### Opening page
 > Welcome to Breath 5.5!
